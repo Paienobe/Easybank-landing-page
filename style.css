@@ -338,6 +338,8 @@ ul {
         max-height: 130vh;
         /* overflow-x: hidden; */
         overflow: hidden;
+        max-width: 1440px;
+        margin: auto;
     }
 
     .text-house {
